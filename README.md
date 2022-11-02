@@ -5,7 +5,7 @@
 - router
 - semantic react
 
-##runnig project
+## runnig project
 - ``` npm install ```
 - ``` npm start ```
 ## about Project:
