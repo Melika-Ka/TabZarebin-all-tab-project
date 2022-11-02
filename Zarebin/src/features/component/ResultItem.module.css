@@ -1,0 +1,39 @@
+.result {
+  text-align: left;
+  position: relative;
+}
+/* .result::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: rgba(12, 12, 12, 0.473);
+} */
+.img {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  display: inline-block;
+  position: relative;
+  left: 110%;
+  top: -20%;
+}
+.link {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 5px;
+  background-color: rgba(0, 0, 0, 0.041);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.158);
+}
+.title {
+  font-weight: bold;
+  margin-top: 10px;
+  color: rgba(0, 0, 0, 0.377);
+  text-align: justify;
+}
+.description {
+  text-align: justify;
+  font-size: 20px;
+  margin-top: 10px;
+}
